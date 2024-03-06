@@ -77,3 +77,6 @@ dispensree.cc
 event.agency
 rbcroyalbank-secureinfo.com
 activateprofile.info
+account-recover.com
+paypal-redirected.account-recover.com
+canadapost.post-helpec.com
