@@ -80,3 +80,4 @@ activateprofile.info
 account-recover.com
 paypal-redirected.account-recover.com
 canadapost.post-helpec.com
+annualcostcoreward.com
