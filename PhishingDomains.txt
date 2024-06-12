@@ -128,3 +128,5 @@ secure-rbcroyalbankinfo.com
 td-authlogin2024.com
 scotiahelp-scotiaonline.com
 qrco.de
+secureaccess-ticketpay.com
+www-ticketnotice.com
