@@ -9,3 +9,5 @@ temp.sh
 www.myserv012.com
 www.sdfsd.xyz
 zalupapi.online
+hailbot.geek
+jiggaboo.oss
